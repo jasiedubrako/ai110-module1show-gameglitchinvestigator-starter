@@ -5,7 +5,8 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
-When I first ran the game, the main interface loaded, but several parts of the game state did not match the rules shown in the settings pane.
+
+  When I first ran the game, the main interface loaded, but several parts of the game state did not match the rules shown in the settings pane.
 Some bugs were visible from the player interface, while others became clearer by checking the Developer Debug Info.
 
 - List at least two concrete bugs you noticed at the start  
